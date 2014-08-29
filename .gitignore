@@ -1,13 +1,19 @@
+# OS generated files #
+######################
 .DS_Store
-.strawman
-<<<<<<< HEAD
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# oXygen related #
+##################
 .xpr
-=======
-.xpr
->>>>>>> fadb0af592cd06ce1a1a2a8903a6e7fdaeb5352d
 
-*.xpr
-
-*.xpr
-
-ead_revision.xpr
+# Backup files #
+################
+*~
+.BAK
+.bak
